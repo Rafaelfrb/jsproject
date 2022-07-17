@@ -17,3 +17,8 @@ person.name = 'Nicolas';
 //Bracket notation - other way
 
 person['name'] = 'Rafael';
+
+//other example of how Bracket Notation can be useful:
+
+let attribute = 'name';
+person[attribute] = 'Rafael';
